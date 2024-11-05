@@ -16,7 +16,7 @@ dependencies:
       path: packages/kiota_abstractions
   kiota_http:    
     git:
-      url: https://github.com/kiota-community/dart_kiota.git
+      url: https://github.com/eertmanhidde/dart_kiota_fork.git
       ref: json
       path: packages/kiota_http
   kiota_serialization_json:
