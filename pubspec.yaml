@@ -2,7 +2,7 @@ name: keyhub_dart_sdk
 description: Dart SDK for KeyHub
 version: 0.0.1
 publish_to: none
-repository: https://github.com/topicuskeyhub/sdk-dart
+repository: https://github.com/eertmanhidde/sdk-dart_fork
 
 environment:
   sdk: ^3.4.4
